@@ -1,3 +1,4 @@
+//Serdar Gürler
 package com.example.sgurler.myapplication;
 
 import android.content.Context;
